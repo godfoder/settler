@@ -1,4 +1,9 @@
 petl
 flask
 sqlalchemy
+sqlalchemy-migrate
 pluginbase
+flask-login
+flask-sqlalchemy
+flask-security
+flask-wtf
